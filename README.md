@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![made in jamaica](https://img.shields.io/badge/MADE%20IN-JAMAICA-green?style=for-the-badge)](https://github.com/Rift3000/Jamaican-Portfolio) [![submit portfolio](https://img.shields.io/badge/SUBMIT-PORTFOLIO-gold?style=for-the-badge)](https://github.com/Rift3000/Jamaican-Portfolio)
+[![made in jamaica](https://img.shields.io/badge/MADE%20IN-JAMAICA-green?style=for-the-badge)](https://github.com/Rift3000/Jamaican-Portfolio) [![submit portfolio](https://img.shields.io/badge/SUBMIT-PORTFOLIO-gold?style=for-the-badge)](https://github.com/Rift3000/Jamaican-Portfolio/blob/master/CONTRIBUTING.md)
 
  </div>
 
