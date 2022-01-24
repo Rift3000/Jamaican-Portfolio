@@ -9,7 +9,7 @@ You can simply copy and modify the portfolio entry example provided. If you have
 1. Ensure to add the portfolio link, GitHub link, LinkedIn or any relevant social media link.
 
 <br/>
-<h3>Give the repo a star or share it with a friend⭐</h3>
+<h3>Give the repo a star and share it with a friend⭐</h3>
 <br/>
 
 <p>Inspired by:</p>
