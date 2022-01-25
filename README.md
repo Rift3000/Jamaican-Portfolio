@@ -19,6 +19,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-darkblue?style=for-the-badge&logo=react)](http://jasonwilliamsja.live/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jason-williams-7056b3a6/)
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/Rift3000)
+[![Front End Developer](https://img.shields.io/badge/-frontend_developer-darkgreen?style=for-the-badge&logo=react)](https://reactjs.org/)
 
 </div>
 
