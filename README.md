@@ -35,3 +35,12 @@
 </div>
 
 <br/>
+<h2 align="center"><b>-Jelani Howard-</b></h2>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jelani-howard-786b911b7/)
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/JelaniAHoward)
+
+</div>
+
+<br/>
