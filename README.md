@@ -23,3 +23,13 @@
 </div>
 
 <br/>
+<h2 align="center"><b>Kishane Lewis</b></h2>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-darkblue?style=for-the-badge&logo=react)](https://cosisaxis.co/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishane-lewis/)
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/cosisaxis)
+
+</div>
+
+<br/>
