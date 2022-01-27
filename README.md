@@ -44,3 +44,16 @@
 </div>
 
 <br/>
+<h2 align="center"><b>Jason Clarke <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+</b></h2>
+<div align="center">
+
+[![Front End Developer](https://img.shields.io/badge/-software_engineer-42b883?style=for-the-badge&logo=vue.js&logoColor=fff)](https://www.devjasonclarke.com/)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-35495e?style=for-the-badge&logo=vue.js&logoColor=42b883)](https://www.devjasonclarke.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devjasonclarke/)
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/devJasonClarke)
+
+</div>
+
+<br/>
