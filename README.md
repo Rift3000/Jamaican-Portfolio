@@ -25,6 +25,18 @@
 </div>
 
 <br/>
+<h2 align="center"><b>Jaheim Brown 👨🏾‍💻</b></h2>
+<div align="center">
+
+[![Full-Stack Developer](https://img.shields.io/badge/-FullStack_developer-brown?style=for-the-badge&logo=next.js&logoColor=f5f5f5)](https://nextjs.org/)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brown?style=for-the-badge&logo=next.js&logoColor=f5f5f5)](https://www.jaheimbrown.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaheim-brown/)
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/JaheimBrown)
+
+</div>
+
+<br/>
 <h2 align="center"><b>Kishane Lewis</b></h2>
 <div align="center">
 
